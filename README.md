@@ -6,6 +6,10 @@ This project presents a Tableau dashboard to analyse electric vehicle (EV) adopt
 
 ---
 
+## 🔍 Overview of the Project
+An interactive Tableau-based visualization project called the Electric Vehicle Data Analysis Dashboard offers comprehensive insights into the distribution and uptake of electric vehicles (EVs) in the US, with a particular emphasis on Washington State. To find trends by model, make, year, type (BEV/PHEV), and eligibility for Clean Air Vehicles (CAFV), it examines more than 150,000 EV records.
+The project aims to comprehend the evolution of EV adoption over time, pinpoint top producers and models, and point out areas that require further study, such as policy evaluation, infrastructure planning, or EV trend forecasting.
+
 ## 📌 Key Insights from the Dashboard
 
 ### 🔹 Overall Statistics
