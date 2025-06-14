@@ -125,10 +125,10 @@ Key objectives:
 ###### └── 📁 data/
 ######     └── electric_vehicle_data.csv (not included, link below)
 
----
 
 ## 🌐 Glimpse of Dashboard
 
+---![ELECTRIC VEHICLE DATA ANALYSIS TABLEAU DASHBOARD IMAGE](https://github.com/user-attachments/assets/2932cb77-a713-4283-9efe-6a62a9a36e6c)
 ---
 
 ## 📥 Data Source
