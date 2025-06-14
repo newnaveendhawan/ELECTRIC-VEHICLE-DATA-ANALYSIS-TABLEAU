@@ -6,6 +6,20 @@ This project presents a Tableau dashboard to analyse electric vehicle (EV) adopt
 
 ---
 
+## 📚 Table of Contents
+
+- [🔍 Project Overview](#-project-overview)
+- [📌 Key Insights from the Dashboard](#-key-insights-from-the-dashboard)
+- [📊 Dashboard Features](#-dashboard-features)
+- [🔧 Tools & Technologies Used](#-tools--technologies-used)
+- [🧠 Suggestions for Next Steps](#-suggestions-for-next-steps)
+- [📁 Project Structure](#-project-structure)
+- [📥 Data Source](#-data-source)
+- [📃 License](#-license)
+- [🙋‍♂️ Author](#-author)
+
+---
+
 ## 🔍 Project Overview
 
 The **Electric Vehicle Data Analysis Dashboard** is an interactive Tableau project that explores electric vehicle (EV) adoption trends across the United States, with a strong focus on **Washington State**. Using a dataset of over **150,000 EV records**, this dashboard provides insights by:
