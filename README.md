@@ -14,6 +14,7 @@ This project presents a Tableau dashboard to analyse electric vehicle (EV) adopt
 - [🔧 Tools & Technologies Used](#-tools--technologies-used)
 - [🧠 Suggestions for Next Steps](#-suggestions-for-next-steps)
 - [📁 Project Structure](#-project-structure)
+- [🌐 Glimpse of Dashboard](#-glimpse-of-Dashboard)
 - [📥 Data Source](#-data-source)
 - [📃 License](#-license)
 - [🙋‍♂️ Author](#-about-the-author)
@@ -123,6 +124,10 @@ Key objectives:
 ###### ├── 📄 README.md
 ###### └── 📁 data/
 ######     └── electric_vehicle_data.csv (not included, link below)
+
+---
+
+## 🌐 Glimpse of Dashboard
 
 ---
 
