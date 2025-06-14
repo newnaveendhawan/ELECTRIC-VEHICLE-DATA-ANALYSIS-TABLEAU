@@ -16,7 +16,7 @@ This project presents a Tableau dashboard to analyse electric vehicle (EV) adopt
 - [📁 Project Structure](#-project-structure)
 - [📥 Data Source](#-data-source)
 - [📃 License](#-license)
-- [🙋‍♂️ Author](#-author)
+- [🙋‍♂️ Author](#-about-the-author)
 
 ---
 
