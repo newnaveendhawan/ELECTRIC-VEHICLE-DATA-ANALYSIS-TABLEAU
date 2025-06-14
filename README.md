@@ -72,7 +72,7 @@ This project presents a Tableau dashboard to analyse electric vehicle (EV) adopt
 ## 🧠 Suggestions for Next Steps
 
 1. **Expand Beyond Washington** – Integrate more states for a comprehensive national analysis.
-2. **EV Range Comparison** – Analyze how electric range varies by model/year.
+2. **EV Range Comparison** – Analyse how electric range varies by model/year.
 3. **Charging Infrastructure** – Overlay EV adoption with public charging availability.
 4. **Policy Impact Study** – Compare EV growth vs. state/federal EV incentives.
 5. **Forecast Future Trends** – Use time series models (ARIMA/SARIMA) to forecast EV adoption till 2030.
@@ -82,30 +82,34 @@ This project presents a Tableau dashboard to analyse electric vehicle (EV) adopt
 
 ## 📁 Project Structure
 
-📁 electric-vehicle-dashboard/
-├── 📊 ELECTRIC VEHICLE DATA ANALYSIS TABLEAU DASHBOARD IMAGE.png
-├── 📄 README.md
-└── 📁 data/
-└── electric_vehicle_data.csv (not included, link below)
+##### 📁 electric-vehicle-dashboard/
+###### └── 📁 Images/
+######     └── 📁 Main Dashboard image/
+######         ├── 📊 ELECTRIC VEHICLE DATA ANALYSIS TABLEAU DASHBOARD IMAGE.png
+###### └── 📁 Tableau Workbook/
+######     ├── 📄 ELECTRIC VEHICLE DATA ANALYSIS TABLEAU DASHBOARD.twbx
+###### ├── 📄 README.md
+###### └── 📁 data/
+######     └── electric_vehicle_data.csv (not included, link below)
 
 ---
 
 ## 📥 Data Source
 
 > The dataset is not included due to size limits.  
-> You can add a [Google Drive / GitHub LFS / Kaggle Link] to allow others to download the raw file.
+> You can download from the [Google Drive](https://drive.google.com/file/d/1Df33DQ1X1vaEMGY4CzKelltNTWo2XV50/view?usp=drive_link)   
 
 ---
 
 ## 📃 License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](https://github.com/newnaveendhawan/ELECTRIC-VEHICLE-DATA-ANALYSIS-TABLEAU/blob/main/LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
-
-**Naveen Dhawan**  
-🎯 Passionate about data visualisation, EV trends, and clean energy analytics  
-📧 [your.email@example.com]  
-🔗 [LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+## 👨‍💻 About the Author
+### Naveen Dhawan
+###### 📧 newnaveendhawan@gmail.com
+###### [💼 LinkedIn](https://www.linkedin.com/in/newnaveendhawan/) 
+###### [📁 Portfolio](https://naveendhawanportfolio.blogspot.com/) 
+###### 🎓 BTech – NIT Warangal | Data Analyst | ML Enthusiast | Power BI & Python
